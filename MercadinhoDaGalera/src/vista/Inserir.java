@@ -10,7 +10,9 @@ import persistencia.JDBCProduto;
 
 /**
  *
- * @author nerdy
+ * @author ArthurSuassuna
+ * @author Filipe Tito
+ * @author Emily Lopes
  */
 public class Inserir extends javax.swing.JInternalFrame {
 

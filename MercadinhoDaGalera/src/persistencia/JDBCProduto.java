@@ -15,7 +15,7 @@ import modelo.Produto;
 /**
  *
  * @author ArthurSuassuna
- * @author Felipe Tito
+ * @author Filipe Tito
  * @author Emily Lopes
  */
 public class JDBCProduto {

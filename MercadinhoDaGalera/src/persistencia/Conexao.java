@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 /**
  *
  * @author ArthurSuassuna
- * @author Felipe Tito
+ * @author Filipe Tito
  * @author Emily Lopes
  */
 public class Conexao {
