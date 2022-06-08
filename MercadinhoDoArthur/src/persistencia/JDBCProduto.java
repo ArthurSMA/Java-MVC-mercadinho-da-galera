@@ -15,7 +15,7 @@ import modelo.Produto;
 /**
  *
  * @author ArthurSuassuna
- * @author Felipe T
+ * @author Filipe Tito
  * @author Emily Lopes
  */
 
